@@ -1,0 +1,3 @@
+Public Static void (args Strings){
+	println ("Hello my dear friend");
+}
