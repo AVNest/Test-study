@@ -1,2 +1,2 @@
-println ("goodby, my durling");
-println ("by, my friend");
+println ("goodby, my durling!");
+println ("by, my friend!");
