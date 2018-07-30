@@ -1,3 +1,3 @@
-println ("goodby, my durling");
-println ("by, my friend");
-println ("I'ts very impotante");
+println ("goodby, my darling!");
+println ("by, my friend!");
+println ("I'ts very impotante!");
